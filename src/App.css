@@ -2,7 +2,7 @@
 
 body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-image: url("../src/images/back.jpg");
+  background-image: url("../public/images/back.jpg");
 }
 
 h2 {
